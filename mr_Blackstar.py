@@ -10,3 +10,7 @@ def some_trash_function_1():
 
 def some_trash_function_2():
     pass
+
+
+def some_crucial_function_1():
+    return 'very important string'

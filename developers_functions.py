@@ -39,4 +39,4 @@ class Person:
 
 
 def git_revert_function():
-    return f"{Person('Artem', 'Kasatkin')} in non-reverted commit"
+    return f"{Person('Artem', 'Kasatkin')} in reverted commit"

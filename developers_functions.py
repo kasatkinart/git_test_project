@@ -28,6 +28,15 @@ def greet():
     return "Hello from the development team!"
 
 
-
 def say_by():
     return "bye"
+
+
+class Person:
+    def __init__(self, name, surname):
+        self.name = name
+        self.surname = surname
+
+
+def git_revert_function():
+    return f"{Person('Artem', 'Kasatkin')} in reverted commit"

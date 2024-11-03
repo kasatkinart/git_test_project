@@ -6,6 +6,8 @@ print(dev_fun_2())
 print(dev_fun_3())
 
 
-while True:
-    some_crucial_function_1()
-
+def recusrsion():
+    if recusrsion() == 1:
+        return 0
+    else:
+        return 1 + recusrsion()

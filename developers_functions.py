@@ -25,4 +25,5 @@ class Jet:
 # developers_functions.py
 
 def greet():
-    return "Hello from the developers!"
+    return "Hello from the development team!"
+

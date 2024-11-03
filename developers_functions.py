@@ -13,3 +13,11 @@ def dev_fun_3():
 
 def dev_fun_4():
     pass
+
+
+class Jet:
+    def __init__(self, weight, speed, id):
+        self.speed = speed
+        self.weight = weight
+        self.id = id
+

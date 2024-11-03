@@ -40,3 +40,7 @@ class Person:
 
 def git_revert_function():
     return f"{Person('Artem', 'Kasatkin')} in reverted commit"
+
+
+def git_pull_rebase():
+    return f"{Person('Artem', 'Kasatkin')} wants to use git pull --rebase"

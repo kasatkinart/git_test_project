@@ -27,3 +27,7 @@ class Jet:
 def greet():
     return "Hello from the development team!"
 
+
+
+def say_by():
+    return "bye"

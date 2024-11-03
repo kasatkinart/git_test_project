@@ -21,3 +21,8 @@ class Jet:
         self.weight = weight
         self.id = id
 
+
+# developers_functions.py
+
+def greet():
+    return "Hello from the developers!"

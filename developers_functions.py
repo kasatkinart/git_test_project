@@ -3,7 +3,8 @@ def dev_fun_1():
 
 
 def dev_fun_2():
-    pass
+    for i in range(10):
+        print('Хочу получить merge-commit')
 
 
 def dev_fun_3():

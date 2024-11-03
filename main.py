@@ -42,3 +42,8 @@ for i, row in df.iterrows():
         description=row['Описание'],
         assignee=row['Исполнитель']
     )
+
+
+class Car:
+    def __init__(self):
+        pass

@@ -1,5 +1,5 @@
 from developers_functions import *
-from mr_Blackstar import *
+from mr_blackstar import *
 
 print(dev_fun_1())
 print(dev_fun_2())

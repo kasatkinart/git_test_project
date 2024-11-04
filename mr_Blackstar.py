@@ -14,3 +14,7 @@ def some_trash_function_2():
 
 def some_crucial_function_1():
     return 'very important string'
+
+
+def crucial_dev_function():
+    return "You're in develop branch"

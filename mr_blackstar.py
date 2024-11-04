@@ -16,5 +16,5 @@ def some_crucial_function_1():
     return 'very important string'
 
 
-def crucial_master_function():
-    return "You're in develop branch"
+def crucial_master_dev_function():
+    return "You're in master branch, in which develop branch was merged"

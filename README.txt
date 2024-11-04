@@ -3,4 +3,4 @@ this is my first hard study of git using terminal and not using opportunities of
 
 If you see this message, then git pull --rebase was completed successfully.
 
-This is README for master branch. I want to test the division of branches and lately merge them.
+This is README for master branch. I want to test the division of branches and lately merge them. You're in master branch
